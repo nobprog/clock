@@ -1,0 +1,29 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Vina+Sans&display=swap');
+body {
+	background-color: #747875;
+	
+	
+	font-family: 'Vina Sans', cursive;
+	
+}
+
+.main { 
+	
+	color: #fae769;
+	
+	 display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.main .day{
+	margin-top: 10px;
+  margin-bottom: 20px;
+	font-size: 70px;
+}
+.main .clock{
+	font-size: 200px;
+	margin-top: 12%;
+  margin-bottom: 20px;
+
+}
